@@ -1,0 +1,7 @@
+# Mengabaikan session dan cache WhatsApp Web
+.wwebjs_auth/
+healthify-agent/.wwebjs_auth/
+
+# Tambahan (opsional tapi penting jika belum ada)
+node_modules/
+.env
